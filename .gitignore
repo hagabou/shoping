@@ -1,0 +1,7 @@
+# Ignore le dossier .idea
+.idea/
+
+# Ignorer les fichiers de dépendances de Maven
+back/target/
+back/lib/
+front/node_modules/
